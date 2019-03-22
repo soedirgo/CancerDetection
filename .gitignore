@@ -3,3 +3,4 @@ test.zip
 train/
 test/
 histopathologic-cancer-detection.zip
+.ipynb_checkpoints/
