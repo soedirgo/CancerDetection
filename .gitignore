@@ -2,5 +2,7 @@ train.zip
 test.zip
 train/
 test/
+!input/subset_data/train/
+!input/subset_data/test/
 histopathologic-cancer-detection.zip
 .ipynb_checkpoints/
